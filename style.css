@@ -1,7 +1,9 @@
+
 body {
   font-family: Tahoma, Geneva, Verdana, sans-serif;
   background: #333333;
   color: aliceblue;
+
 }
 h2 {
   text-align: center;
@@ -11,6 +13,7 @@ h2 {
   width: 33.3%;
   padding: 8px;
   box-sizing: border-box;
+  
 }
 .price-box {
   color: #555555;
@@ -20,6 +23,8 @@ h2 {
   margin: 0;
   padding: 0;
   transition: 0.3s;
+  border-radius: 15px;
+  overflow: hidden;
 }
 .price-box:hover,
 .price-box.best {
