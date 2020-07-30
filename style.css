@@ -3,6 +3,8 @@ body {
   font-family: Tahoma, Geneva, Verdana, sans-serif;
   background: #333333;
   color: aliceblue;
+  width: 80%;
+  margin: auto;
 
 }
 h2 {
